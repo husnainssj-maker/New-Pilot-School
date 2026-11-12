@@ -1,0 +1,72 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f9;
+    color: #333;
+    text-align: center;
+}
+
+/* Header Styling */
+.school-header {
+    background-color: #0b2545;
+    color: white;
+    padding: 25px 15px;
+}
+
+.school-header h1 {
+    margin: 0;
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+
+.contact-info {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #d0d7de;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #ffffff;
+    padding: 40px 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.hero h2 {
+    color: #0b2545;
+    margin-bottom: 10px;
+}
+
+/* Content Box */
+.content-box {
+    background-color: #ffffff;
+    padding: 25px 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    text-align: left;
+}
+
+.content-box h3 {
+    color: #0b2545;
+    margin-top: 0;
+}
+
+/* Footer */
+footer {
+    background-color: #0b2545;
+    color: white;
+    padding: 15px;
+    font-size: 12px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
